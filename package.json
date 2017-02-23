@@ -1,0 +1,13 @@
+{
+  "name": "syncwritestream",
+  "version": "1.0.0",
+  "description": "SyncWriteStream implementation from Node.js Core",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasnell/syncwritestream.git"
+  },
+  "keywords": [ "Node.js", "SyncWriteStream" ],
+  "author": "James M Snell <jasnell@gmail.com>",
+  "license": "MIT"
+}
